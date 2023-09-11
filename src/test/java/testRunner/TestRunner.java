@@ -9,9 +9,9 @@ import io.cucumber.junit.CucumberOptions;
 @CucumberOptions(
 					//features= {".//Features/"},
 					//features= {".//Features/LoginDDT.feature"},
-					features= {".//Features/Login.feature",".//Features/LoginDDTExcel.feature"},
+				//	features= {".//Features/Login.feature",".//Features/LoginDDTExcel.feature"},
 				//	features= {".//Features/LoginDDTExcel.feature"},
-				//	features= {".//Features/Login.feature"},
+					features= {".//Features/Login.feature"},
 					//features= {".//Features/LoginDataDriven.feature"},
 				//	features= {"@target/rerun.txt"},
 					
